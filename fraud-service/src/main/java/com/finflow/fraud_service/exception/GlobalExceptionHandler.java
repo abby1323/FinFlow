@@ -1,4 +1,4 @@
-package com.finflow.notification_service.exception;
+package com.finflow.fraud_service.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
